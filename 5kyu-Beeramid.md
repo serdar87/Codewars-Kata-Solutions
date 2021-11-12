@@ -20,15 +20,13 @@ beeramid(1500, 2); // should === 12
 beeramid(5000, 3); // should === 16
 
 ```diff
--My Solution =>
+-My Solution 
 ```
-
 
 ![Mysolution Beeramid](https://user-images.githubusercontent.com/83467033/141531249-c829d00e-78f8-4093-8241-8fa175e16480.PNG)
 
 ```diff
--Best Solution =>
+-Best Solution 
 ```
-
 
 ![Bestsolution Beeramid](https://user-images.githubusercontent.com/83467033/141531409-505fd08a-033c-42a1-ad67-8e38089d5ab7.PNG)
